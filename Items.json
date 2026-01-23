@@ -1,128 +1,129 @@
 [
   {
-    "itemName": "R.string.cheese",
-    "itemCategory": "R.string.black_widow",
-    "itemQuantity": "250 gm",
-    "itemPrice": 94,
-    "itemImage": "R.drawable.cheese"
+    "stringResourceId": "cheese",
+    "itemCategoryId": "black_widow",
+    "itemQuantityId": "250 gm",
+    "item_price": 94,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.milk",
-    "itemCategory": "R.string.black_widow",
-    "itemQuantity": "500 ml",
-    "itemPrice": 24,
-    "itemImage": "R.drawable.milk"
+    "stringResourceId": "milk",
+    "itemCategoryId": "black_widow",
+    "itemQuantityId": "500 ml",
+    "item_price": 24,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.paneer",
-    "itemCategory": "R.string.black_widow",
-    "itemQuantity": "1 kg",
-    "itemPrice": 300,
-    "itemImage": "R.drawable.paneer"
+    "stringResourceId": "paneer",
+    "itemCategoryId": "black_widow",
+    "itemQuantityId": "1 kg",
+    "item_price": 300,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.actionfigure",
-    "itemCategory": "R.string.hulk",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 500,
-    "itemImage": "R.drawable.actionfigure"
+    "stringResourceId": "actionfigure",
+    "itemCategoryId": "hulk",
+    "itemQuantityId": "1 Unit",
+    "item_price": 500,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.mask",
-    "itemCategory": "R.string.hulk",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 20,
-    "itemImage": "R.drawable.mask"
+    "stringResourceId": "mask",
+    "itemCategoryId": "hulk",
+    "itemQuantityId": "1 Unit",
+    "item_price": 20,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.hulk_jacket",
-    "itemCategory": "R.string.hulk",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 699,
-    "itemImage": "R.drawable.hulk_jacket"
+    "stringResourceId": "hulk_jacket",
+    "itemCategoryId": "hulk",
+    "itemQuantityId": "1 Unit",
+    "item_price": 699,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.helmet",
-    "itemCategory": "R.string.hulk",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 1299,
-    "itemImage": "R.drawable.helmet"
+    "stringResourceId": "helmet",
+    "itemCategoryId": "hulk",
+    "itemQuantityId": "1 Unit",
+    "item_price": 1299,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.blackwidowbra",
-    "itemCategory": "R.string.black_widow",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 149,
-    "itemImage": "R.drawable.blackwidowbra"
+    "stringResourceId": "blackwidowbra",
+    "itemCategoryId": "black_widow",
+    "itemQuantityId": "1 Unit",
+    "item_price": 149,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.blackwidowtoy",
-    "itemCategory": "R.string.black_widow",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 350,
-    "itemImage": "R.drawable.blackwidowtoy"
+    "stringResourceId": "blackwidowtoy",
+    "itemCategoryId": "black_widow",
+    "itemQuantityId": "1 Unit",
+    "item_price": 350,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.batmansuite",
-    "itemCategory": "R.string.thor",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 999999,
-    "itemImage": "R.drawable.batmansuite"
+    "stringResourceId": "batmansuite",
+    "itemCategoryId": "thor",
+    "itemQuantityId": "1 Unit",
+    "item_price": 999999,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.spacestone",
-    "itemCategory": "R.string.vision",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 5789934,
-    "itemImage": "R.drawable.spacestone"
+    "stringResourceId": "spacestone",
+    "itemCategoryId": "vision",
+    "itemQuantityId": "1 Unit",
+    "item_price": 5789934,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.mindstone",
-    "itemCategory": "R.string.vision",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 567890,
-    "itemImage": "R.drawable.mindstone"
+    "stringResourceId": "mindstone",
+    "itemCategoryId": "vision",
+    "itemQuantityId": "1 Unit",
+    "item_price": 567890,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.realitystone",
-    "itemCategory": "R.string.vision",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 6999999,
-    "itemImage": "R.drawable.realitystone"
+    "stringResourceId": "realitystone",
+    "itemCategoryId": "vision",
+    "itemQuantityId": "1 Unit",
+    "item_price": 6999999,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.timestone",
-    "itemCategory": "R.string.vision",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 9000000,
-    "itemImage": "R.drawable.timestone"
+    "stringResourceId": "timestone",
+    "itemCategoryId": "vision",
+    "itemQuantityId": "1 Unit",
+    "item_price": 9000000,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.powerstone",
-    "itemCategory": "R.string.vision",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 80000000,
-    "itemImage": "R.drawable.powerstone"
+    "stringResourceId": "powerstone",
+    "itemCategoryId": "vision",
+    "itemQuantityId": "1 Unit",
+    "item_price": 80000000,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.hulkbuster",
-    "itemCategory": "R.string.ironman",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 10000,
-    "itemImage": "R.drawable.hulkbuster"
+    "stringResourceId": "hulkbuster",
+    "itemCategoryId": "ironman",
+    "itemQuantityId": "1 Unit",
+    "item_price": 10000,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.keychain",
-    "itemCategory": "R.string.ironman",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 299,
-    "itemImage": "R.drawable.keychain"
+    "stringResourceId": "keychain",
+    "itemCategoryId": "ironman",
+    "itemQuantityId": "1 Unit",
+    "item_price": 299,
+    "imageResourceId": ""
   },
   {
-    "itemName": "R.string.arcreactor",
-    "itemCategory": "R.string.ironman",
-    "itemQuantity": "1 Unit",
-    "itemPrice": 10000,
-    "itemImage": "R.drawable.arcreactor"
+    "stringResourceId": "arcreactor",
+    "itemCategoryId": "ironman",
+    "itemQuantityId": "1 Unit",
+    "item_price": 10000,
+    "imageResourceId": ""
   }
 ]
+
