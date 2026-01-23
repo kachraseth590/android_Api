@@ -1,0 +1,128 @@
+[
+  {
+    "itemName": "R.string.cheese",
+    "itemCategory": "R.string.black_widow",
+    "itemQuantity": "250 gm",
+    "itemPrice": 94,
+    "itemImage": "R.drawable.cheese"
+  },
+  {
+    "itemName": "R.string.milk",
+    "itemCategory": "R.string.black_widow",
+    "itemQuantity": "500 ml",
+    "itemPrice": 24,
+    "itemImage": "R.drawable.milk"
+  },
+  {
+    "itemName": "R.string.paneer",
+    "itemCategory": "R.string.black_widow",
+    "itemQuantity": "1 kg",
+    "itemPrice": 300,
+    "itemImage": "R.drawable.paneer"
+  },
+  {
+    "itemName": "R.string.actionfigure",
+    "itemCategory": "R.string.hulk",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 500,
+    "itemImage": "R.drawable.actionfigure"
+  },
+  {
+    "itemName": "R.string.mask",
+    "itemCategory": "R.string.hulk",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 20,
+    "itemImage": "R.drawable.mask"
+  },
+  {
+    "itemName": "R.string.hulk_jacket",
+    "itemCategory": "R.string.hulk",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 699,
+    "itemImage": "R.drawable.hulk_jacket"
+  },
+  {
+    "itemName": "R.string.helmet",
+    "itemCategory": "R.string.hulk",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 1299,
+    "itemImage": "R.drawable.helmet"
+  },
+  {
+    "itemName": "R.string.blackwidowbra",
+    "itemCategory": "R.string.black_widow",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 149,
+    "itemImage": "R.drawable.blackwidowbra"
+  },
+  {
+    "itemName": "R.string.blackwidowtoy",
+    "itemCategory": "R.string.black_widow",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 350,
+    "itemImage": "R.drawable.blackwidowtoy"
+  },
+  {
+    "itemName": "R.string.batmansuite",
+    "itemCategory": "R.string.thor",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 999999,
+    "itemImage": "R.drawable.batmansuite"
+  },
+  {
+    "itemName": "R.string.spacestone",
+    "itemCategory": "R.string.vision",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 5789934,
+    "itemImage": "R.drawable.spacestone"
+  },
+  {
+    "itemName": "R.string.mindstone",
+    "itemCategory": "R.string.vision",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 567890,
+    "itemImage": "R.drawable.mindstone"
+  },
+  {
+    "itemName": "R.string.realitystone",
+    "itemCategory": "R.string.vision",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 6999999,
+    "itemImage": "R.drawable.realitystone"
+  },
+  {
+    "itemName": "R.string.timestone",
+    "itemCategory": "R.string.vision",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 9000000,
+    "itemImage": "R.drawable.timestone"
+  },
+  {
+    "itemName": "R.string.powerstone",
+    "itemCategory": "R.string.vision",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 80000000,
+    "itemImage": "R.drawable.powerstone"
+  },
+  {
+    "itemName": "R.string.hulkbuster",
+    "itemCategory": "R.string.ironman",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 10000,
+    "itemImage": "R.drawable.hulkbuster"
+  },
+  {
+    "itemName": "R.string.keychain",
+    "itemCategory": "R.string.ironman",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 299,
+    "itemImage": "R.drawable.keychain"
+  },
+  {
+    "itemName": "R.string.arcreactor",
+    "itemCategory": "R.string.ironman",
+    "itemQuantity": "1 Unit",
+    "itemPrice": 10000,
+    "itemImage": "R.drawable.arcreactor"
+  }
+]
