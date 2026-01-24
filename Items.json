@@ -1,129 +1,128 @@
 [
   {
-    "stringResourceId": "cheese",
-    "itemCategoryId": "black_widow",
+    "stringResourceId": "Cheese",
+    "itemCategoryId": "Black Widow",
     "itemQuantity": "250 gm",
     "item_price": 94,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/cheese.jpeg"
   },
   {
-    "stringResourceId": "milk",
-    "itemCategoryId": "black_widow",
+    "stringResourceId": "Milk",
+    "itemCategoryId": "Black Widow",
     "itemQuantity": "500 ml",
     "item_price": 24,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/milk.jpeg"
   },
   {
-    "stringResourceId": "paneer",
-    "itemCategoryId": "black_widow",
+    "stringResourceId": "Paneer",
+    "itemCategoryId": "Black Widow",
     "itemQuantity": "1 kg",
     "item_price": 300,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/paneer.jpg"
   },
   {
-    "stringResourceId": "actionfigure",
-    "itemCategoryId": "hulk",
+    "stringResourceId": "Action Figure",
+    "itemCategoryId": "Hulk",
     "itemQuantity": "1 Unit",
     "item_price": 500,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/actionfigure.jpg"
   },
   {
-    "stringResourceId": "mask",
-    "itemCategoryId": "hulk",
+    "stringResourceId": "Mask",
+    "itemCategoryId": "Hulk",
     "itemQuantity": "1 Unit",
     "item_price": 20,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/mask.jpg"
   },
   {
-    "stringResourceId": "hulk_jacket",
-    "itemCategoryId": "hulk",
+    "stringResourceId": "Hulk Jacket",
+    "itemCategoryId": "Hulk",
     "itemQuantity": "1 Unit",
     "item_price": 699,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/hulk_jacket.jpg"
   },
   {
-    "stringResourceId": "helmet",
-    "itemCategoryId": "hulk",
+    "stringResourceId": "Helmet",
+    "itemCategoryId": "Hulk",
     "itemQuantity": "1 Unit",
     "item_price": 1299,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/helmet.jpg"
   },
   {
-    "stringResourceId": "blackwidowbra",
-    "itemCategoryId": "black_widow",
+    "stringResourceId": "Black Widow Bra",
+    "itemCategoryId": "Black Widow",
     "itemQuantity": "1 Unit",
     "item_price": 149,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/blackwidowbra.jpg"
   },
   {
-    "stringResourceId": "blackwidowtoy",
-    "itemCategoryId": "black_widow",
+    "stringResourceId": "Black Widow Toy",
+    "itemCategoryId": "Black Widow",
     "itemQuantity": "1 Unit",
     "item_price": 350,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/blackwidowtoy.jpg"
   },
   {
-    "stringResourceId": "batmansuite",
-    "itemCategoryId": "thor",
+    "stringResourceId": "Batman Suite",
+    "itemCategoryId": "Thor",
     "itemQuantity": "1 Unit",
     "item_price": 999999,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/batmansuite.jpeg"
   },
   {
-    "stringResourceId": "spacestone",
-    "itemCategoryId": "vision",
+    "stringResourceId": "Space Stone",
+    "itemCategoryId": "Vision",
     "itemQuantity": "1 Unit",
     "item_price": 5789934,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/spacestone.jpg"
   },
   {
-    "stringResourceId": "mindstone",
-    "itemCategoryId": "vision",
+    "stringResourceId": "Mind Stone",
+    "itemCategoryId": "Vision",
     "itemQuantity": "1 Unit",
     "item_price": 567890,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/mindstone.jpg"
   },
   {
-    "stringResourceId": "realitystone",
-    "itemCategoryId": "vision",
+    "stringResourceId": "Reality Stone",
+    "itemCategoryId": "Vision",
     "itemQuantity": "1 Unit",
     "item_price": 6999999,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/realitystone.jpg"
   },
   {
-    "stringResourceId": "timestone",
-    "itemCategoryId": "vision",
+    "stringResourceId": "Time Stone",
+    "itemCategoryId": "Vision",
     "itemQuantity": "1 Unit",
     "item_price": 9000000,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/timestone.jpg"
   },
   {
-    "stringResourceId": "powerstone",
-    "itemCategoryId": "vision",
+    "stringResourceId": "Power Stone",
+    "itemCategoryId": "Vision",
     "itemQuantity": "1 Unit",
     "item_price": 80000000,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/powerstone.jpg"
   },
   {
-    "stringResourceId": "hulkbuster",
-    "itemCategoryId": "ironman",
+    "stringResourceId": "Hulkbuster",
+    "itemCategoryId": "Iron Man",
     "itemQuantity": "1 Unit",
     "item_price": 10000,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/hulkbuster.jpg"
   },
   {
-    "stringResourceId": "keychain",
-    "itemCategoryId": "ironman",
+    "stringResourceId": "Keychain",
+    "itemCategoryId": "Iron Man",
     "itemQuantity": "1 Unit",
     "item_price": 299,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/keychain.jpg"
   },
   {
-    "stringResourceId": "arcreactor",
-    "itemCategoryId": "ironman",
+    "stringResourceId": "Arc Reactor",
+    "itemCategoryId": "Iron Man",
     "itemQuantity": "1 Unit",
     "item_price": 10000,
-    "imageResourceId": ""
+    "imageResourceId": "https://kachraseth590.github.io/android_Api/arcreactor.jpg"
   }
 ]
-
